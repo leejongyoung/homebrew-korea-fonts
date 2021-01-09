@@ -1,3 +1,6 @@
+# Tap
+tap "leejongyoung/korea-fonts"
+
 # Naver
 cask "font-d2coding"
 cask "font-nanum-gothic"
