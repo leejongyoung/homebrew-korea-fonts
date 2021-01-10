@@ -185,4 +185,68 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/487">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="9">우아한형제들</td>
+        <td align="center">주아</td>
+        <td align="center">font-bm-jua</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/53">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">한나는열한살</td>
+        <td align="center">font-bm-hanna11yrs</td>
+        <td align="center">
+            <a href="#">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">도현</td>
+        <td align="center">font-bm-dohyeon</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/55">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">연성</td>
+        <td align="center">font-bm-yeonsung</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/54">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">기랑해랑</td>
+        <td align="center">font-bm-kiranghaerang</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/56">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">한나 Air</td>
+        <td align="center">font-bm-hanna-air</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/113">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">한나 Pro</td>
+        <td align="center">font-bm-hanna-pro</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/216">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">을지로</td>
+        <td align="center">font-bm-euljiro</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/321">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">을지로10년후</td>
+        <td align="center">font-bm-euljiro10yrslater</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/499">바로가기</a>
+        </td>
+    </tr>
 </table>
