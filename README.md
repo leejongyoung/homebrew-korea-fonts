@@ -29,8 +29,11 @@ Mac을 사용하시면 자신에게 맞는 프로그램을 이것저것 설치�
 ## 폰트 설치 방법
 터미널을 실행 후 다음 명령어를 입력하세요
 ``` sh
-git clone https://github.com/leejongyoung/homebrew-korea-fonts.git
+# 한줄로 설치하기 (당신이 나를 신뢰한다면)
+curl -fsSL https://leejongyoung.com/homebrew-korea-fonts/install.sh | bash
 
+# 수동으로 설치하기
+git clone https://github.com/leejongyoung/homebrew-korea-fonts.git
 ./install.sh
 ```
 
