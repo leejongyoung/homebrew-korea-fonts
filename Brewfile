@@ -29,3 +29,10 @@ cask "leejongyoung/korea-fonts/font-binggrae2"
 cask "leejongyoung/korea-fonts/font-binggrae-taom"
 cask "leejongyoung/korea-fonts/font-binggrae-melona"
 cask "leejongyoung/korea-fonts/font-binggrae-samanco"
+
+# Nexon
+cask "leejongyoung/korea-fonts/font-nexon-lv1-gothic"
+cask "leejongyoung/korea-fonts/font-nexon-lv2-gothic"
+cask "leejongyoung/korea-fonts/font-nexon-bazzi"
+cask "leejongyoung/korea-fonts/font-nexon-football-gothic"
+cask "leejongyoung/korea-fonts/font-nexon-maplestory"

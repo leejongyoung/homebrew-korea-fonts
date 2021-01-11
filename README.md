@@ -290,4 +290,40 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/460">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="5">넥슨</td>
+        <td align="center">LV1고딕</td>
+        <td align="center">font-nexon-lv1-gothic</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/432">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">LV2고딕</td>
+        <td align="center">font-nexon-lv2-gothic</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/435">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">배찌</td>
+        <td align="center">font-nexon-bazzi</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/423">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">풋볼고딕</td>
+        <td align="center">font-nexon-football-gothic</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/437">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">메이플스토리</td>
+        <td align="center">font-nexon-maplestory</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/428">바로가기</a>
+        </td>
+    </tr>
 </table>
