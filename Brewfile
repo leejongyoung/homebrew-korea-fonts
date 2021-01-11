@@ -22,3 +22,10 @@ cask "font-bm-hanna-air"
 cask "font-bm-hanna-pro"
 cask "font-bm-euljiro"
 cask "font-bm-euljiro10yrslater"
+
+# Binggrae
+cask "font-binggrae"
+cask "font-binggrae2"
+cask "font-binggrae-taom"
+cask "font-binggrae-melona"
+cask "font-binggrae-samanco"

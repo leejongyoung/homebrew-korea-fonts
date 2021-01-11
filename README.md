@@ -249,4 +249,40 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/499">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="5">빙그레</td>
+        <td align="center">빙그레</td>
+        <td align="center">font-binggrae</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/5">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">빙그레Ⅱ</td>
+        <td align="center">font-binggrae2</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/6">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">빙그레 따옴</td>
+        <td align="center">font-binggrae-taom</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/114">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">빙그레 메로나</td>
+        <td align="center">font-binggrae-melona</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/319">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">빙그레 싸만코</td>
+        <td align="center">font-binggrae-samanco</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/460">바로가기</a>
+        </td>
+    </tr>
 </table>
