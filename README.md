@@ -1,6 +1,8 @@
 # HomeBrew 무료 한글 글꼴
 이 프로젝트는 무료로 제공하는 폰트 공식 홈페이지에서 일일이 들어가서 다운로드를 하고 압축을 풀고 폴더에 옮기는 단순작업의 번거로움을 줄이기 위해 만들어졌습니다.
 
+<a href="https://asciinema.org/a/wi0AgJfiOx3C8QIt92hPjur9F" target="_blank"><img width="300px" height="300px" src="https://asciinema.org/a/wi0AgJfiOx3C8QIt92hPjur9F.svg"/></a>
+
 ## 이 프로젝트 세줄 요약
 - 이 프로젝트에서 받아오는 글꼴 파일들은 공식 폰트 홈페이지 주소에서 다운로드 후 파일 변조 확인 후 시스템 폰트 설치 경로에 옮겨줍니다.
 - 폰트 파일을 제조사의 번들 프로그램을 통해서 제공되는 경우 번들 프로그램에서만 설치하실 수 있습니다. (윤고딕: 폰트매니저, 아시아폰트: 폰트통)
