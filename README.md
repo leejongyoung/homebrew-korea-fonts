@@ -326,4 +326,89 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/428">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="12">카페24</td>
+        <td align="center">숑숑</td>
+        <td align="center">font-cafe24-syongsyong</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/346">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">쑥쑥</td>
+        <td align="center">font-cafe24-ssukssuk</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/345">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">동동</td>
+        <td align="center">font-cafe24-dongdong</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/341">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">심플해</td>
+        <td align="center">font-cafe24-simplehae</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/344">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">단정해</td>
+        <td align="center">font-cafe24-danjunghae</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/340">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">당당해</td>
+        <td align="center">font-cafe24-dangdanghae</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/371">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">고운밤</td>
+        <td align="center">font-cafe24-onepretty-night</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/342">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">빛나는별</td>
+        <td align="center">font-cafe24-shining-star</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/343">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">아네모네</td>
+        <td align="center">font-cafe24-ohsquare</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/363">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">아네모네 Air</td>
+        <td align="center">font-cafe24-ohsquare-air</td>
+        <td align="center">
+            바로가기
+        </td>
+    </tr>
+    <tr>
+        <td align="center">써라운드</td>
+        <td align="center">font-cafe24-ssurround</td>
+        <td align="center">
+            바로가기
+        </td>
+    </tr>
+    <tr>
+        <td align="center">써라운드 Air</td>
+        <td align="center">font-cafe24-ssurround-air</td>
+        <td align="center">
+            바로가기
+        </td>
+    </tr>
 </table>
