@@ -33,6 +33,7 @@ robot "Hi! I'm going to install korean fonts. Here I go..."
 brew_bin=$(which brew) 2>&1 > /dev/null
 if [[ $? != 0 ]]; then
   action "Install the macOS package manager"
+  sudo -v
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   if [[ $? != 0 ]]; then
     error "unable to install homebrew, script $0 abort!"
