@@ -426,4 +426,26 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/501">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="3">코트라</td>
+        <td align="center">볼드</td>
+        <td align="center">font-kotra-bold</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/485">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">고딕</td>
+        <td align="center">font-kotra-gothic</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/484">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">손글씨</td>
+        <td align="center">font-kotra-songeulssi</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/486">바로가기</a>
+        </td>
+    </tr>
 </table>

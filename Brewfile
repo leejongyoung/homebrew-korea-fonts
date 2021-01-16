@@ -54,3 +54,8 @@ cask "leejongyoung/korea-fonts/font-cafe24-ssurround-air"
 # Eland
 cask "leejongyoung/korea-fonts/font-eland-nice"
 cask "leejongyoung/korea-fonts/font-eland-choice"
+
+# Kotra
+cask "leejongyoung/korea-fonts/font-kotra-bold"
+cask "leejongyoung/korea-fonts/font-kotra-gothic"
+cask "leejongyoung/korea-fonts/font-kotra-songeulssi"
