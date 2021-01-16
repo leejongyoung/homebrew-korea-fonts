@@ -411,4 +411,19 @@ brew uninstall --cask [삭제하려는 폰트명]
             바로가기
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="2">이랜드</td>
+        <td align="center">나이스</td>
+        <td align="center">font-eland-nice</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/504">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">초이스</td>
+        <td align="center">font-eland-choice</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/501">바로가기</a>
+        </td>
+    </tr>
 </table>

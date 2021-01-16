@@ -50,3 +50,7 @@ cask "leejongyoung/korea-fonts/font-cafe24-ohsquare"
 cask "leejongyoung/korea-fonts/font-cafe24-ohsquare-air"
 cask "leejongyoung/korea-fonts/font-cafe24-ssurround"
 cask "leejongyoung/korea-fonts/font-cafe24-ssurround-air"
+
+# Eland
+cask "leejongyoung/korea-fonts/font-eland-nice"
+cask "leejongyoung/korea-fonts/font-eland-choice"
