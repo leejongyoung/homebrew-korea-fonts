@@ -448,4 +448,75 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/486">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="10">조선일보</td>
+        <td align="center">조선일보명조</td>
+        <td align="center">font-chosun-nm</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/63">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선로고</td>
+        <td align="center">font-chosun-lo</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/417">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선궁서</td>
+        <td align="center">font-chosun-gs</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/416">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선굴림</td>
+        <td align="center">font-chosun-gu</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/415">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선견고딕</td>
+        <td align="center">font-chosun-bg</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/414">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선굵은고딕</td>
+        <td align="center">font-chosun-kg</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/413">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선가는고딕</td>
+        <td align="center">font-chosun-sg</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/412">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선굵은명조</td>
+        <td align="center">font-chosun-km</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/411">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선신명조</td>
+        <td align="center">font-chosun-sm</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/418">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">조선100년</td>
+        <td align="center">font-chosun-centennial</td>
+        <td align="center">
+            바로가기
+        </td>
+    </tr>
 </table>
