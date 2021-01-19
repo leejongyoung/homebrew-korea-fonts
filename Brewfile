@@ -71,3 +71,7 @@ cask "leejongyoung/korea-fonts/font-chosun-sg"
 cask "leejongyoung/korea-fonts/font-chosun-km"
 cask "leejongyoung/korea-fonts/font-chosun-sm"
 cask "leejongyoung/korea-fonts/font-chosun-centennial"
+
+# Aritaum
+cask "leejongyoung/korea-fonts/font-aritaum-dotum"
+cask "leejongyoung/korea-fonts/font-aritaum-buri"

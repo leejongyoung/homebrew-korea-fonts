@@ -519,4 +519,19 @@ brew uninstall --cask [삭제하려는 폰트명]
             바로가기
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="2">아리따움</td>
+        <td align="center">아리따돋음</td>
+        <td align="center">font-aritaum-dotum</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/15">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">아리따부리</td>
+        <td align="center">font-aritaum-buri</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/16">바로가기</a>
+        </td>
+    </tr>
 </table>
