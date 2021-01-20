@@ -75,3 +75,8 @@ cask "leejongyoung/korea-fonts/font-chosun-centennial"
 # Aritaum
 cask "leejongyoung/korea-fonts/font-aritaum-dotum"
 cask "leejongyoung/korea-fonts/font-aritaum-buri"
+
+# Godo
+cask "leejongyoung/korea-fonts/font-godo"
+cask "leejongyoung/korea-fonts/font-godo-rounded"
+cask "leejongyoung/korea-fonts/font-godo-maum"

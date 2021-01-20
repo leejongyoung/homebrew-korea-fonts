@@ -534,4 +534,26 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/16">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="3">NHN 고도</td>
+        <td align="center">고도</td>
+        <td align="center">font-godo</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/1">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">고도라운드</td>
+        <td align="center">font-godo-rounded</td>
+        <td align="center">
+            바로가기
+        </td>
+    </tr>
+    <tr>
+        <td align="center">고도마음</td>
+        <td align="center">font-godo-maum</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/2">바로가기</a>
+        </td>
+    </tr>
 </table>
