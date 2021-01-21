@@ -556,4 +556,40 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/2">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="5">leedheo</td>
+        <td align="center">도스명조</td>
+        <td align="center">font-leedheo-dos-myungjo</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/238">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">도스고딕</td>
+        <td align="center">font-leedheo-dos-gothic</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/239">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">도스샘물</td>
+        <td align="center">font-leedheo-dos-saemmul</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/240">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">삼국지3글꼴</td>
+        <td align="center">font-leedheo-dos-sam3</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/241">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">미래로글꼴</td>
+        <td align="center">font-leedheo-dos-miraero</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/242">바로가기</a>
+        </td>
+    </tr>
 </table>

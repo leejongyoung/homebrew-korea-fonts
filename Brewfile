@@ -80,3 +80,12 @@ cask "leejongyoung/korea-fonts/font-aritaum-buri"
 cask "leejongyoung/korea-fonts/font-godo"
 cask "leejongyoung/korea-fonts/font-godo-rounded"
 cask "leejongyoung/korea-fonts/font-godo-maum"
+
+# leedheo
+cask "leejongyoung/korea-fonts/font-leedheo-dos-myungjo"
+cask "leejongyoung/korea-fonts/font-leedheo-dos-gothic"
+cask "leejongyoung/korea-fonts/font-leedheo-dos-saemmul"
+cask "leejongyoung/korea-fonts/font-leedheo-dos-sam3"
+cask "leejongyoung/korea-fonts/font-leedheo-dos-miraero"
+# cask "leejongyoung/korea-fonts/font-leedheo-dos-pilgi"
+# cask "leejongyoung/korea-fonts/font-leedheo-dos-iyagi"
