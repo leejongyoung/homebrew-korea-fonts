@@ -89,3 +89,6 @@ cask "leejongyoung/korea-fonts/font-leedheo-dos-sam3"
 cask "leejongyoung/korea-fonts/font-leedheo-dos-miraero"
 # cask "leejongyoung/korea-fonts/font-leedheo-dos-pilgi"
 # cask "leejongyoung/korea-fonts/font-leedheo-dos-iyagi"
+
+# Seoul
+cask "leejongyoung/korea-fonts/font-seoul"

@@ -592,4 +592,18 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/242">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="2">서울특별시</td>
+        <td align="center">서울한강</td>
+        <td align="center" rowspan="2">font-seoul</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/60">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">서울남산</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/59">바로가기</a>
+        </td>
+    </tr>
 </table>
