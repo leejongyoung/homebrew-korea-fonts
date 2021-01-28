@@ -1,6 +1,6 @@
-cask "font-nanum-barun-gothic" do
+cask "font-naver-nanum-barun-gothic" do
     version :latest
-    sha256 :no_check
+    sha256 "809d125738a0fa1d782439f4b6827cae4f769c123e5acc5c93221a6fe77c4dc9"
 
     url "https://blog.kakaocdn.net/dn/btAOq9/btqFcOnePPB/kL0BounlwKiwPdJPckEkuK/NanumBarunGothicOTF.zip?attach=1&knm=tfile.zip"
     name "Nanum Barun Gothic"

@@ -1,6 +1,6 @@
-cask "font-nanum-gothic" do
+cask "font-naver-nanum-gothic" do
     version :latest
-    sha256 :no_check
+    sha256 "5790fa0be1bceaa798ad6eb62b9102b7668758c31a21fb3ac9e5a783db1da041"
   
     url "http://appdown.naver.com/naver/font/NanumFont/setupmac/NanumFontSetup_MacOS_OTF_GOTHIC_hangeulcamp.zip"
     name "Nanum Gothic"

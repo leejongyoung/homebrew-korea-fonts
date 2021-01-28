@@ -115,77 +115,77 @@ brew uninstall --cask [삭제하려는 폰트명]
     <tr>
         <td align="center" rowspan="11">네이버</td>
         <td align="center">D2 Coding</td>
-        <td align="center">font-d2coding</td>
+        <td align="center">font-naver-d2coding</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/92">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔고딕</td>
-        <td align="center">font-nanum-gothic</td>
+        <td align="center">font-naver-nanum-gothic</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/39">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔명조</td>
-        <td align="center">font-nanum-myeongjo</td>
+        <td align="center">font-naver-nanum-myeongjo</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/41">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔바른펜</td>
-        <td align="center">font-nanum-barunpen</td>
+        <td align="center">font-naver-nanum-barunpen</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/42">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔손글씨</td>
-        <td align="center">font-nanum-songeulssi</td>
+        <td align="center">font-naver-nanum-songeulssi</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/44">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔스퀘어</td>
-        <td align="center">font-nanum-square</td>
+        <td align="center">font-naver-nanum-square</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/37">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔스퀘어라운드</td>
-        <td align="center">font-nanum-square-round</td>
+        <td align="center">font-naver-nanum-square-round</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/38">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔바른고딕</td>
-        <td align="center">font-nanum-barun-gothic</td>
+        <td align="center">font-naver-nanum-barun-gothic</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/36">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔명조고딕</td>
-        <td align="center">font-nanum-gothic-eco</td>
+        <td align="center">font-naver-nanum-gothic-eco</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/41">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">나눔명조에코</td>
-        <td align="center">font-nanum-myeongjo-eco</td>
+        <td align="center">font-naver-nanum-myeongjo-eco</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/41">바로가기</a>
         </td>
     </tr>
     <tr>
         <td align="center">마루부리</td>
-        <td align="center">font-maruburi</td>
+        <td align="center">font-naver-maruburi</td>
         <td align="center">
             <a href="https://noonnu.cc/font_page/487">바로가기</a>
         </td>
