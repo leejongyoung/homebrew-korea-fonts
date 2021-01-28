@@ -92,3 +92,6 @@ cask "leejongyoung/korea-fonts/font-leedheo-miraero"
 
 # Seoul
 cask "leejongyoung/korea-fonts/font-seoul"
+
+# Busan
+cask "leejongyoung/korea-fonts/font-busan"
