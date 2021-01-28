@@ -614,4 +614,18 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/29">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="2">경기도</td>
+        <td align="center">경기천년제목</td>
+        <td align="center" rowspan="2">font-gyeonggi-cheonnyeon</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/14">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">경기천년바탕</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/13">바로가기</a>
+        </td>
+    </tr>
 </table>

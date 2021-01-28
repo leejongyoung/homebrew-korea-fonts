@@ -95,3 +95,6 @@ cask "leejongyoung/korea-fonts/font-seoul"
 
 # Busan
 cask "leejongyoung/korea-fonts/font-busan"
+
+# Gyeonggi
+cask "leejongyoung/korea-fonts/font-gyeonggi-cheonnyeon"
