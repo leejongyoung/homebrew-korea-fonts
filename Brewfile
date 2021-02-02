@@ -99,3 +99,87 @@ cask "leejongyoung/korea-fonts/font-busan"
 
 # Gyeonggi
 cask "leejongyoung/korea-fonts/font-gyeonggi-cheonnyeon"
+
+# Sungdong
+cask "leejongyoung/korea-fonts/font-sungdong-gothic"
+cask "leejongyoung/korea-fonts/font-sungdong-myungjo"
+
+# Mapo
+cask "leejongyoung/korea-fonts/font-mapo-goldenpier"
+cask "leejongyoung/korea-fonts/font-mapo-flowerisland"
+cask "leejongyoung/korea-fonts/font-mapo-dacapo"
+cask "leejongyoung/korea-fonts/font-mapo-danginli"
+cask "leejongyoung/korea-fonts/font-mapo-naru"
+cask "leejongyoung/korea-fonts/font-mapo-backpacking"
+cask "leejongyoung/korea-fonts/font-mapo-agape"
+cask "leejongyoung/korea-fonts/font-mapo-peacefull"
+cask "leejongyoung/korea-fonts/font-mapo-hongdaefreedom"
+
+# Goyang
+cask "leejongyoung/korea-fonts/font-goyang"
+cask "leejongyoung/korea-fonts/font-goyang-deogyang"
+cask "leejongyoung/korea-fonts/font-goyang-ilsan"
+
+# Jeju
+cask "leejongyoung/korea-fonts/font-jeju"
+
+# Jeonbuk
+cask "leejongyoung/korea-fonts/font-jeonbuk"
+
+# Jeonnam
+cask "leejongyoung/korea-fonts/font-jeonnam-pureun"
+
+# Gwangju
+cask "leejongyoung/korea-fonts/font-gwangju-bitgoeul"
+
+# Ulsan
+cask "leejongyoung/korea-fonts/font-ulsan-junggu"
+
+# Namyangju
+cask "leejongyoung/korea-fonts/font-namyangju"
+
+# Asan
+cask "leejongyoung/korea-fonts/font-asan-yisunshin"
+cask "leejongyoung/korea-fonts/font-asan-yisunshindotum"
+
+# Pocheon
+cask "leejongyoung/korea-fonts/font-pocheon-oseonghaneum"
+cask "leejongyoung/korea-fonts/font-pocheon-makgeolli"
+
+# Jeongseon
+cask "leejongyoung/korea-fonts/font-jeongseon-arirang"
+cask "leejongyoung/korea-fonts/font-jeongseon-arirangppuri"
+cask "leejongyoung/korea-fonts/font-jeongseon-ariranghon"
+cask "leejongyoung/korea-fonts/font-jeongseon-dongkang"
+
+# Andong
+cask "leejongyoung/korea-fonts/font-andong-katuri"
+cask "leejongyoung/korea-fonts/font-andong-wolyeonggyo"
+
+# Gimpo
+cask "leejongyoung/korea-fonts/font-gimpo"
+
+# Suncheon
+cask "leejongyoung/korea-fonts/font-suncheon"
+
+# Gimhae
+cask "leejongyoung/korea-fonts/font-gimhae-gaya"
+
+# Gimje
+cask "leejongyoung/korea-fonts/font-gimje"
+
+# Jeonju
+cask "leejongyoung/korea-fonts/font-jeonju-wanpan"
+
+# Wando
+cask "leejongyoung/korea-fonts/font-wando-cleansea"
+cask "leejongyoung/korea-fonts/font-wando-hope"
+
+# Yangpyeonggun
+cask "leejongyoung/korea-fonts/font-yangpyeonggun"
+
+# Goheung
+cask "leejongyoung/korea-fonts/font-goheung-happy"
+
+# Yeongyang
+cask "leejongyoung/korea-fonts/font-yeongyang-dimibang"
