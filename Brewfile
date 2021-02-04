@@ -183,3 +183,13 @@ cask "leejongyoung/korea-fonts/font-goheung-happy"
 
 # Yeongyang
 cask "leejongyoung/korea-fonts/font-yeongyang-dimibang"
+
+# Gabia
+cask "leejongyoung/korea-fonts/font-gabia-solmee"
+cask "leejongyoung/korea-fonts/font-gabia-bombaram"
+cask "leejongyoung/korea-fonts/font-gabia-napjakblock"
+
+# EBS
+cask "leejongyoung/korea-fonts/font-ebs-hunmin"
+cask "leejongyoung/korea-fonts/font-ebs-hunmin-saelon"
+cask "leejongyoung/korea-fonts/font-ebs-jusigyeong"

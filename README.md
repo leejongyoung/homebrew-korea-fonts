@@ -954,4 +954,48 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/483">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="3">가비아</td>
+        <td align="center">솔미</td>
+        <td align="center">font-gabia-solmee</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/69">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">봄바람</td>
+        <td align="center">font-gabia-bombaram</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/70">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">납작블락</td>
+        <td align="center">font-gabia-napjakblock</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/71">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" rowspan="3">EBS</td>
+        <td align="center">훈민정음</td>
+        <td align="center">font-ebs-hunmin</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/76">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">훈민정음 새론</td>
+        <td align="center">font-ebs-hunmin-saelon</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/77">바로가기</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">주시경</td>
+        <td align="center">font-ebs-jusigyeong</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/78">바로가기</a>
+        </td>
+    </tr>
 </table>
