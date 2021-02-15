@@ -999,7 +999,7 @@ brew uninstall --cask [삭제하려는 폰트명]
         </td>
     </tr>
     <tr>
-        <td align="center" rowspan="3">스포카</td>
+        <td align="center">스포카</td>
         <td align="center">한 산스</td>
         <td align="center">font-spoqa-hansans</td>
         <td align="center">
@@ -1007,7 +1007,7 @@ brew uninstall --cask [삭제하려는 폰트명]
         </td>
     </tr>
     <tr>
-        <td align="center" rowspan="3">넷마블</td>
+        <td align="center">넷마블</td>
         <td align="center">넷마블</td>
         <td align="center">font-netmarble</td>
         <td align="center">
