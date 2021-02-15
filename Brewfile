@@ -193,3 +193,6 @@ cask "leejongyoung/korea-fonts/font-gabia-napjakblock"
 cask "leejongyoung/korea-fonts/font-ebs-hunmin"
 cask "leejongyoung/korea-fonts/font-ebs-hunmin-saelon"
 cask "leejongyoung/korea-fonts/font-ebs-jusigyeong"
+
+# Spoqa
+cask "leejongyoung/korea-fonts/font-spoqa-hansans"

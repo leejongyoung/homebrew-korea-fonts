@@ -998,4 +998,12 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/78">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="3">스포카</td>
+        <td align="center">한 산스</td>
+        <td align="center">font-spoqa-hansans</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/25">바로가기</a>
+        </td>
+    </tr>
 </table>
