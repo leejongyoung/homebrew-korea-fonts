@@ -1006,4 +1006,12 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/25">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center" rowspan="3">넷마블</td>
+        <td align="center">넷마블</td>
+        <td align="center">font-netmarble</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/117">바로가기</a>
+        </td>
+    </tr>
 </table>

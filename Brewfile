@@ -196,3 +196,6 @@ cask "leejongyoung/korea-fonts/font-ebs-jusigyeong"
 
 # Spoqa
 cask "leejongyoung/korea-fonts/font-spoqa-hansans"
+
+# Netmarble
+cask "leejongyoung/korea-fonts/font-netmarble"
