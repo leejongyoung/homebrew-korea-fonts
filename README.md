@@ -1014,4 +1014,12 @@ brew uninstall --cask [삭제하려는 폰트명]
             <a href="https://noonnu.cc/font_page/117">바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td align="center">노희찬재단</td>
+        <td align="center">노희찬</td>
+        <td align="center">font-roehoechan</td>
+        <td align="center">
+            <a href="https://noonnu.cc/font_page/468">바로가기</a>
+        </td>
+    </tr>
 </table>

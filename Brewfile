@@ -199,3 +199,6 @@ cask "leejongyoung/korea-fonts/font-spoqa-hansans"
 
 # Netmarble
 cask "leejongyoung/korea-fonts/font-netmarble"
+
+# Roehoechan
+cask "leejongyoung/korea-fonts/font-roehoechan"
